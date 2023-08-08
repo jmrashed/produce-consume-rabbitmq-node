@@ -1,0 +1,27 @@
+{
+  "name": "jmrashed-amqplib",
+  "version": "1.0.0",
+  "description": "Produce and Consume Messages with RabbitMQ using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmrashed/produce-consume-rabbitmq-node.git"
+  },
+  "keywords": [
+    "rabbitmq",
+    "nodejs",
+    "messagebroker"
+  ],
+  "author": "jmrashed@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmrashed/produce-consume-rabbitmq-node/issues"
+  },
+  "homepage": "https://github.com/jmrashed/produce-consume-rabbitmq-node#readme",
+  "dependencies": {
+    "amqplib": "^0.10.3"
+  }
+}
